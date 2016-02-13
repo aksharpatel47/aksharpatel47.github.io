@@ -1,12 +1,18 @@
 ---
 layout: post
-title:  "Playing Audio using Swift and AVFoundation"
+title:  "Playing Audio using Swift 2 & AVFoundation"
 date:   2016-02-13 10:49:38 +0530
 categories: Tutorial
 author: Akshar Patel
 ---
 
-We'll first start by writing how to play an Audio with Swift and AVFoundation.
+
+
+Todo:
+
+- Playing Audio
+- Recording & Storing Audio
+- Mixing the Audio for Special Effects
 
 Next we'll add Recording Abilities.
 

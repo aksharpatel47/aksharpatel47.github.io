@@ -15,6 +15,8 @@ encouraged learning by googling problems and blogging. And to tell the truth I f
 language and the ecosystem of iOS development. John Somnez from simpleprogrammer also encouraged blogging. A lot
 of developers I follow in twitter also recommend blogging as a way to grow.
 
+![Blog All The Things](/assets/images/blog-all-things.jpg)
+
 So this is my fresh start at blogging. I'll be going through Udacity and Pluralsight's entire range of iOS
 courses and blogging about the problems faced and solutions. Please feel free to point out my mistakes. I'm
 learning. I hope my blog helps you out in any way possible.

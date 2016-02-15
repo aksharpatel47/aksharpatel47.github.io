@@ -15,7 +15,7 @@ import AVFoundation
 Add the Audio File to your project by right clicking the folder in the Project
 Navigator and clicking on `Add file to Your_Project`.
 
-We'll now get the path to the audio file and create its URL using
+We'll now get the path to the audio file and its URL using
 {% highlight swift %}
 let audioPath = NSBundle.mainBundle().pathForResource("file_name", ofType: "mp3")
 let audioURL = NSURL(fileURLWithPath: audioPath!)

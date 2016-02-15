@@ -15,7 +15,7 @@ import AVFoundation
 Add the Audio File to your project by right clicking the folder in the Project
 Navigator and clicking on `Add file to Your_Project`.
 
-We'll now get the path to the audio file and create it's url using
+We'll now get the path to the audio file and create its URL using
 {% highlight swift %}
 let audioPath = NSBundle.mainBundle().pathForResource("file_name", ofType: "mp3")
 let audioURL = NSURL(fileURLWithPath: audioPath!)
@@ -41,8 +41,7 @@ audioPlayer.rate = 0.5 // Available range is [0.5, 2.0]
 {% endhighlight %} 
 
 Both the pause() and stop() methods stop current playback. The playback picks up from the last 
-point when play resumes. To start from the beginning upon stopping the
-audioPlayer:
+point when play resumes. To start from the beginning upon stopping the audioPlayer:
 {% highlight swift %}
 // Stop the audioPlayer
 audioPlayer.stop()
@@ -56,5 +55,5 @@ audioPlayer.currentTime = 0.0 // This could be used to add seek functionality to
 - Swift 2.1
 - Xcode 7.2
 
-To know more about the AVAudioPlayer, have a look at its documenation [here](https://developer.apple.com/library/ios/documentation/AVFoundation/Reference/AVAudioPlayerClassReference/).
+To know more about the AVAudioPlayer, have a look at its documentation [here](https://developer.apple.com/library/ios/documentation/AVFoundation/Reference/AVAudioPlayerClassReference/).
 

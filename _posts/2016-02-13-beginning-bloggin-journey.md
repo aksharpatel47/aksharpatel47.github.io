@@ -21,4 +21,4 @@ So this is my fresh start at blogging. I'll be going through Udacity and Plurals
 courses and blogging about the problems faced and solutions. Please feel free to point out my mistakes. I'm
 learning. I hope my blog helps you out in any way possible.
 
-Thanks for Reading this and wish me luck.
+Thanks for reading this and wish me luck.

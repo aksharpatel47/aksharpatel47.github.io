@@ -2,7 +2,6 @@
 layout: post
 title:  "Playing Audio using Swift 2 & AVFoundation"
 date:   2016-02-13 10:49:38 +0530
-categories: Tutorial
 author: Akshar Patel
 ---
 

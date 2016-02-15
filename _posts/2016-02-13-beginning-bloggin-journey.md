@@ -4,7 +4,7 @@ title: Starting Blogging Journey with Swift and iOS
 ---
 
 I always wanted to blog. Had started a couple of times in the past, but abandoned the blogs 
-as I didn't think it would be worth the time to maintain them. What changed now, you ask? Me.
+as I didn't think it would be worth the time to write and maintain them. What changed now, you ask? Me.
 
 Well, over the last couple of years, I have learnt that it is very important to invest in yourself to advance
 in the crazy fast paced and ever-changing field of software development. I started with a couple of 

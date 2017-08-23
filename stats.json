@@ -1,36 +1,44 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-ea9dca46702a87ec2383.js",
-      "component---src-pages-index-js-ea9dca46702a87ec2383.js.map"
+      "component---src-pages-index-js-a4652e0ccc560929dc40.js",
+      "component---src-pages-index-js-a4652e0ccc560929dc40.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-9780bf50b24c5a392f2f.js",
-      "component---src-layouts-index-js-9780bf50b24c5a392f2f.js.map"
+      "component---src-layouts-index-js-7f0f01051c876336c327.js",
+      "component---src-layouts-index-js-7f0f01051c876336c327.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-b8c9070c6d762e9984a6.js",
-      "component---src-pages-404-js-b8c9070c6d762e9984a6.js.map"
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
     "commons": [
-      "commons-539f2faba596f3a34472.js",
-      "commons-539f2faba596f3a34472.js.map"
+      "commons-1cf1f6d0fa64b62a1200.js",
+      "commons-1cf1f6d0fa64b62a1200.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-5da4d6fbbc13e3e62db2.js",
+      "component---src-pages-page-2-js-5da4d6fbbc13e3e62db2.js.map"
+    ],
     "app": [
-      "app-a6843fabe9508391ee96.js",
-      "app-a6843fabe9508391ee96.js.map"
+      "app-95198fc7d8b5cab3550a.js",
+      "app-95198fc7d8b5cab3550a.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",

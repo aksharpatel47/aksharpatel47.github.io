@@ -583,8 +583,8 @@ webpackJsonp([15178676390636814000],{
 	  addPagesArray: function addPagesArray(newPages) {
 	    pages = newPages;
 	    var pathPrefix = "";
-	    if (false) {
-	      pathPrefix = __PATH_PREFIX__;
+	    if (true) {
+	      pathPrefix = ("/aksharpatel47.github.io");
 	    }
 	    findPage = (0, _findPage2.default)(newPages, pathPrefix);
 	  },
@@ -1109,8 +1109,8 @@ webpackJsonp([15178676390636814000],{
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 	
 	var pathPrefix = "/";
-	if ((undefined)) {
-	  pathPrefix = ("") + "/";
+	if (true) {
+	  pathPrefix = ("/aksharpatel47.github.io") + "/";
 	}
 	
 	if ("serviceWorker" in navigator) {
